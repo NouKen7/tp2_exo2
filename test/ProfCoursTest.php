@@ -87,7 +87,7 @@ class ProfCoursTest extends TestCase
         self::$cours_a = [
             new Cours("Cours1", "2", 1),       
             new Cours("Cours2", "2.5", 3),       
-            new Cours("Cours3", "3", 5)
+            new Cours("Cours3", "3", 5),
             new Cours("Cours4", "2", 3),       // idcours = 4
             new Cours("Cours5", "3", 3),       // idcours = 5
             new Cours("Cours6", "2", 4),       // idcours = 6
